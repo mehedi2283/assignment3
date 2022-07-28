@@ -4,6 +4,11 @@
 }
 
 /* slider button text */
+
+.carousel-img{
+    filter: brightness(50%);
+}
+
 .get-started{
     color: white;
 }
@@ -25,51 +30,12 @@
 .social-bg{
     
     background-color: #ffffff29;
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
     transition-duration: 0.7s;
 }
-.social-bg:hover{
-    background-color: white;
-    transition-duration: 0.7s;
 
 
-}
-
-
-.social-bg:hover a .fa-instagram{
-    color: purple;
-    font-weight: 900;
-    transition-duration: 0.7s;
-
-}
-
-
-.social-bg:hover a .fa-facebook{
-    color: blue;
-    font-weight: 900;
-    transition-duration: 0.7s;
-
-}
-
-
-.social-bg:hover a .fa-twitter{
-    color: rgb(45, 141, 179);
-    font-weight: 900;
-    transition-duration: 0.7s;
-
-}
-
-
-
-.social-bg a{
-    text-decoration: none;
-    color: white;
-    font-size: 25px;
-    transition-duration: 0.7s;
-
-   
-}
 
 

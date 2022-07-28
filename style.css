@@ -16,6 +16,23 @@
 .get-started:hover{
     color: white;
 }
+
+@media screen and (max-width:430px) {
+    .car-font h1{
+        display: block;
+        font-size: 20px;
+        
+        
+    }
+    .car-font p{
+        display: block;
+        font-size: 10px;
+        padding-bottom: 15px;
+        
+    }
+    
+    
+}
 /* explore */
 .explore{
     background-color: #F4FAFD;

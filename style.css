@@ -5,6 +5,7 @@
 
 /* slider button text */
 
+
 .carousel-img{
     filter: brightness(50%);
 }
@@ -18,8 +19,14 @@
 /* explore */
 .explore{
     background-color: #F4FAFD;
-    ;
+    font-size: 12px;
 }
+
+/* feedback */
+.fa-heart{
+    color: red;
+}
+
 
 /* footer */
 .footer-bg{
